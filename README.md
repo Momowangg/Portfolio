@@ -5,7 +5,6 @@
   </head>
   <body>
     <header>
-      <h1>Mike Wang</h1>
       <p>Hello I'm Mike, currently studying Quantitative Methods at Vanderbilt University. My main focus was statistics methods and data analysis.</p>
     </header>
     <main>
