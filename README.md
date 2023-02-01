@@ -11,9 +11,8 @@
     <main>
       <h2>Projects</h2>
       <ul>
-        <li><a href="https://github.com/username/project-1">Project 1</a></li>
-        <li><a href="https://github.com/username/project-2">Project 2</a></li>
-        <li><a href="https://github.com/username/project-3">Project 3</a></li>
+        <li><a href="https://github.com/Momowangg/Portfolio/blob/main/Car_Purchase_Prediction.ipynb">Car_Purchase_Prediction</a></li>
+        <li><a href="https://github.com/Momowangg/Portfolio/blob/main/Finance%20Project.ipynb">Finance Market Assignment</a></li>
       </ul>
     </main>
     <footer>
