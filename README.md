@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>My name</h1>
+    <h1>My portfolio</h1> (In progress...)
   </head>
   <body>
     <header>
-      <h1>My name</h1>
-      <p>A brief introduction about yourself</p>
+      <h1>Mike Wang</h1>
+      <p>Hello I'm Mike, currently studying at Vanderbilt University.</p>
     </header>
     <main>
       <h2>Projects</h2>
