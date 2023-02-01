@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My GitHub Portfolio</title>
+    <h1>My name</h1>
   </head>
   <body>
     <header>
