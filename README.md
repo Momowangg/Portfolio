@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    My portfolio (In progress...)
+    <title>My portfolio</title> (In progress...)
   </head>
   <body>
     <header>
