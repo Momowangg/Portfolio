@@ -16,6 +16,7 @@
     </main>
     <footer>
       <p>Contact information and social links</p>
+      <a href="https://www.linkedin.com/in/yuqiao-mike-wang/">My Linkedin</a>
     </footer>
   </body>
 </html>
