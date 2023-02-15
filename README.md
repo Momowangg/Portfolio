@@ -5,7 +5,7 @@
   </head>
   <body>
     <header>
-      <p>Hello I'm Mike, currently studying Quantitative Methods at Vanderbilt University. My main focus was statistics methods and data analysis.</p>
+      <p>Hello I'm Mike, currently studying Quantitative Methods at Vanderbilt University. My main focus was statistical methods in research and data analysis.</p>
     </header>
     <main>
       <h2>Projects</h2>
