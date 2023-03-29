@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>My portfolio</h1> (In progress...)
+    <h1>My portfolio</h1> 
   </head>
   <body>
     <header>
@@ -12,6 +12,7 @@
       <ul>
         <li><a href="https://github.com/Momowangg/Portfolio/blob/main/Car_Purchase_Prediction.ipynb">Car_Purchase_Prediction</a></li>
         <li><a href="https://github.com/Momowangg/Portfolio/blob/main/Finance%20Project.ipynb">Finance Market Assignment</a></li>
+        <li>(In progress...)</li>
       </ul>
     </main>
     <footer>
