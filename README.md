@@ -10,7 +10,7 @@
     <main>
       <h2>Projects</h2>
       <ul>
-        <li><a href="https://github.com/Momowangg/Portfolio/tree/main/HIMA%20Project">Health Insurance Marketplace Analysis</a></li>
+        <li><a href="https://github.com/Momowangg/Portfolio/tree/main/HIMA%20Project">Health Insurance Marketplace Analysis (HIMA)</a></li>
         <li><a href="https://github.com/Momowangg/Portfolio/blob/main/Car_Purchase_Prediction.ipynb">Car_Purchase_Prediction</a></li>
         <li><a href="https://github.com/Momowangg/Portfolio/blob/main/Finance%20Project.ipynb">Finance Market Analysis</a></li>
         <li>(In progress...)</li>
