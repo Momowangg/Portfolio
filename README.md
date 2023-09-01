@@ -18,6 +18,7 @@
     </main>
     <footer>
       <p>Contact information and social links</p>
+      <a href="https://https://momowangg.github.io/Portfolio_Website/">Personal Website</a>
       <a href="https://www.linkedin.com/in/yuqiao-mike-wang/">My Linkedin</a>
     </footer>
   </body>
